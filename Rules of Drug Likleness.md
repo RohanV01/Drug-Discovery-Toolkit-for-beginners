@@ -1,4 +1,4 @@
-# Theoretical Tutorial: Lipophilicity and Drug Likeness Rules
+# Theoretical Tutorial: Drug Likeness Rules
 
 ## Introduction
 Lipophilicity is a crucial physiochemical property that influences a drug's pharmacokinetics. In this tutorial, we will explore Lipinski's Rule of Five, Ghose Filter, Veber's Rule, Egan's Rule, Muegge's Rule, and the Bioavailability Score. These rules and scores serve as guidelines to assess the drug likeness of a compound based on various physiochemical properties.

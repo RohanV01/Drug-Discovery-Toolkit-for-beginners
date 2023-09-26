@@ -1,4 +1,4 @@
-# Theoretical Tutorial: Lipophilicity and Pharmacokinetic Properties
+# Theoretical Tutorial:Pharmacokinetic Properties
 
 ## Introduction
 Lipophilicity is a crucial physiochemical property that affects a drug's behavior within a biological system. In this tutorial, we will explore lipophilicity in relation to key pharmacokinetic properties, including GI absorption, BBB permeability, P-gp substrate status, and inhibition of various cytochrome P450 enzymes. Additionally, we will discuss the influence of lipophilicity on skin permeation (Log Kp).
