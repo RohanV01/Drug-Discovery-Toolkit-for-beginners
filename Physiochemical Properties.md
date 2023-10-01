@@ -1,6 +1,6 @@
-#Theoretical Tutorial: Physiochemical Properties and Drug Likeness of Molecules
+# Theoretical Tutorial: Physiochemical Properties and Drug Likeness of Molecules
 
-##Introduction
+## Introduction
 In this theoretical tutorial, we will explore various physiochemical properties of molecules and how they influence the drug likeness of a compound. We will cover concepts such as SMILES notation, Molecular Weight (Mol Wt), Number of Atoms, Number of Heavy Atoms, Number of Aromatic Heavy Atoms, Number of Rotatable Bonds, Number of Hydrogen Acceptor and Donor Molecules, and Topological Polar Surface Area (TPSA).
 
 Table of Contents
